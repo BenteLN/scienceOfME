@@ -1,0 +1,24 @@
+body {
+  background-color: #121e45;
+}
+h1 {
+  color: #49059c;
+}
+
+header {
+  background-color: #f2b3e5;
+  padding: 2em;
+}
+
+main {
+  background-color: #e1e6f5;
+  margin: auto;
+  max-width: 1200px
+}
+
+//farger
+//mørk blå: #121e45
+//lys blå: #e1e6f5;
+//mørk rosa: #f255d0
+//lys rosa: #f2b3e5
+//lilla: #49059c
